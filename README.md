@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Handmedesubset 😁
+## Bem-vindo(a) ao perfil do Handmedesubset 
 
  <div>
    <a href="https://github.com/devemdobro">
